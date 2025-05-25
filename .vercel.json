@@ -1,7 +1,8 @@
 {
-  "buildCommand": "",
-  "outputDirectory": "",
   "rewrites": [
-    { "source": "/webhook", "destination": "/api/webhook.js" }
+    {
+      "source": "/webhook",
+      "destination": "/api/webhook.js"
+    }
   ]
 }
